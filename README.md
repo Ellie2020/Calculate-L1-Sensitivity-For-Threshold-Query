@@ -11,6 +11,7 @@ Sensitivity is calculated for sum, mean and threshold query functions. Such quer
 Sensitivity is finally evaluated for the simplest attack: differencing attack. The attack is carried out using a certain query function on 
 
 -the full database vs,
+
 -the database minus a specific person (e.g. row 10 is removed). 
 
 This helps to undertstand what's the actual value of the sample removed (e.g. row 10).
